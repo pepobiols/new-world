@@ -1,4 +1,6 @@
 # new-world
 Firs repository created!
-#Changing the first readme
+My first repository on GitHub
 ## Hello!
+### second header
+I love :coffee: :pizza:, and :dancer:.
